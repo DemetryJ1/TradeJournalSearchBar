@@ -1,0 +1,2 @@
+# TradeJournalSearchBar
+Search bar automation
